@@ -45,7 +45,7 @@ public class Pranit extends Developer {
 | 🤝 Looking to Collaborate | Open-source projects in security, DevSecOps, or backend |
 | 💬 Ask Me About | Java, AWS, Linux, Docker, Risk Frameworks, Secure SDLC |
 | 📫 Reach Me At | kpranit2105@gmail.com |
-| 🌐 Portfolio | [effervescent-muffin-4e915d.netlify.app]( https://kpranit.pages.dev) |
+| 🌐 Portfolio | [ https://kpranit.pages.dev]( https://kpranit.pages.dev) |
 
 ---
 
